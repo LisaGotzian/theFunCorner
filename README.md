@@ -8,12 +8,12 @@ All my fun little (data science) side projects, mostly improving my daily life.
 A potential use of this script could even be running a linear optimization to get the most volume using the smallest linen area, but that would be too nerdy, wouldn't it?  
 Anyways, here's the full model:  
 
-<img src="fulltent.png" alt="full tent" width="600" >
+<img src="images/fulltent.png" alt="full tent" width="600" >
 
 To calculate the sidewalls of the cone, I used an approach that simplifies the calculation but is very close to the real result:
-<img src="conesidewall.png" alt="cone sidewall" width="400" >
+<img src="images/conesidewall.png" alt="cone sidewall" width="400" >
 
 
 And last but not least, here's an image of a spokeswheel tent prototype made out of tooth picks:  
 
-<img src="spokeswheel.jpeg" alt="spokeswheel tent" width="400" >
+<img src="images/spokeswheel.jpeg" alt="spokeswheel tent" width="400" >
